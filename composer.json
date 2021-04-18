@@ -27,6 +27,7 @@
   },
   "require": {
     "php": ">=7.3",
-    "composer/installers": "~1"
+    "composer/installers": "~1",
+    "proklung/bitrix.module.boilerplate": "^1.0"
   }
 }
