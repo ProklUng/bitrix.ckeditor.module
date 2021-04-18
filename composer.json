@@ -18,8 +18,8 @@
   ],
 
   "support": {
-    "issues": "https://github.com/ProklUng/bitrix.module.boilerplate/issues",
-    "source": "https://github.com/ProklUng/bitrix.module.boilerplate"
+    "issues": "https://github.com/ProklUng/bitrix.ckeditor.module/issues",
+    "source": "https://github.com/ProklUng/bitrix.ckeditor.module"
   },
   "extra": {
     "installer-name": "prokl.ckeditor"
