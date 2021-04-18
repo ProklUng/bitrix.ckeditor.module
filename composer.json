@@ -1,0 +1,32 @@
+{
+  "name": "proklung/bitrix.ckeditor.module",
+  "description": "Замена битриксового редактора на CKEditor 5",
+  "version": "1.0.0",
+  "type": "bitrix-d7-module",
+  "keywords": [
+    "bitrix",
+    "bitrix-module",
+    "bitrix-cms",
+    "bitrix-d7"
+  ],
+  "homepage": "https://github.com/ProklUng/bitrix.ckeditor.module",
+  "license": "MIT",
+  "authors": [
+    {
+      "name": "Gavrilov Fedy",
+      "email": "fedor.gavrilov.75@mail.ru"
+    }
+  ],
+
+  "support": {
+    "issues": "https://github.com/ProklUng/bitrix.module.boilerplate/issues",
+    "source": "https://github.com/ProklUng/bitrix.module.boilerplate"
+  },
+  "extra": {
+    "installer-name": "prokl.ckeditor"
+  },
+  "require": {
+    "php": ">=7.3",
+    "composer/installers": "~1"
+  }
+}
