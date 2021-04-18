@@ -21,8 +21,8 @@ class EventCK
             return;
         }
 
-        Asset::getInstance()->addJs('/local/modules/prokl.ckeditor/src/build/ckeditor.js');
-        Asset::getInstance()->addJs('/local/modules/prokl.ckeditor/assets/script.js');
-        Asset::getInstance()->addCss('/local/modules/prokl.ckeditor/assets/style.css');
+        Asset::getInstance()->addJs('/bitrix/modules/prokl.ckeditor/src/build/ckeditor.js');
+        Asset::getInstance()->addJs('/bitrix/modules/prokl.ckeditor/assets/script.js');
+        Asset::getInstance()->addCss('/bitrix/modules/prokl.ckeditor/assets/style.css');
     }
 }
